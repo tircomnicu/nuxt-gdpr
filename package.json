@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-gdpr",
+  "version": "1.0.0",
+  "description": "(Nuxt JS and GDPR - Creating A Custom Cookie Component)",
+  "author": "Vlad Tircomnicu",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "nuxt": "^2.0.0",
+    "vue-analytics": "^5.17.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
