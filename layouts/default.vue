@@ -5,7 +5,9 @@
         <span>NUXT JS</span> and GDPR
         <br />creating a custom Cookie Component
       </h1>
-      <Cookie />
+      <client-only>
+        <Cookie />
+      </client-only>
     </v-app>
   </div>
 </template>
